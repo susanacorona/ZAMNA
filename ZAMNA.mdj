@@ -445,7 +445,7 @@
 									"containerExtending": false,
 									"left": 249,
 									"top": 156.5,
-									"width": 158.79541015625,
+									"width": 158,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -756,7 +756,7 @@
 									"containerExtending": false,
 									"left": 238.5,
 									"top": 252.5,
-									"width": 145.8271484375,
+									"width": 145,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1378,7 +1378,7 @@
 									"containerExtending": false,
 									"left": 255,
 									"top": 460.5,
-									"width": 72.15625,
+									"width": 72,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -12166,6 +12166,29 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAFTif9mR0Rn8CQ="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFTqsAK75iK5YM=",
+							"_parent": {
+								"$ref": "AAAAAAFTifHUUTXaICU="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 160,
+							"top": 16,
+							"width": 60,
+							"height": 51,
+							"autoResize": false,
+							"text": "Nomas ando calando",
+							"wordWrap": true
 						}
 					]
 				},
