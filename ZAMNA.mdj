@@ -445,7 +445,7 @@
 									"containerExtending": false,
 									"left": 249,
 									"top": 156.5,
-									"width": 158.79541015625,
+									"width": 158,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -756,7 +756,7 @@
 									"containerExtending": false,
 									"left": 238.5,
 									"top": 252.5,
-									"width": 145.8271484375,
+									"width": 145,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1378,7 +1378,7 @@
 									"containerExtending": false,
 									"left": 255,
 									"top": 460.5,
-									"width": 72.15625,
+									"width": 72,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -4750,7 +4750,7 @@
 									"containerExtending": false,
 									"left": 280.5,
 									"top": 140.5,
-									"width": 156.65625,
+									"width": 156,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -5061,7 +5061,7 @@
 									"containerExtending": false,
 									"left": 273.5,
 									"top": 196.5,
-									"width": 160.287109375,
+									"width": 159,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -5372,7 +5372,7 @@
 									"containerExtending": false,
 									"left": 282,
 									"top": 260.5,
-									"width": 162.4453125,
+									"width": 161,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -5683,7 +5683,7 @@
 									"containerExtending": false,
 									"left": 287.5,
 									"top": 324.5,
-									"width": 152.33984375,
+									"width": 152,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -5994,7 +5994,7 @@
 									"containerExtending": false,
 									"left": 284,
 									"top": 388.5,
-									"width": 173.2998046875,
+									"width": 173,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -6305,7 +6305,7 @@
 									"containerExtending": false,
 									"left": 279.5,
 									"top": 444.5,
-									"width": 189.16259765625,
+									"width": 188,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -11432,7 +11432,7 @@
 									"containerExtending": false,
 									"left": 290.5,
 									"top": 524.5,
-									"width": 166.76806640625,
+									"width": 166,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -12599,7 +12599,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFFxl38KT9O4MM="
 					},
-					"name": "UseCaseDiagram2",
+					"name": "Almacén",
 					"visible": true,
 					"defaultDiagram": false,
 					"ownedViews": [
@@ -13328,7 +13328,7 @@
 									"containerExtending": false,
 									"left": 353.5,
 									"top": 84.5,
-									"width": 198.5634765625,
+									"width": 197,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -13639,7 +13639,7 @@
 									"containerExtending": false,
 									"left": 354.5,
 									"top": 148.5,
-									"width": 203.63525390625,
+									"width": 202,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -14261,7 +14261,7 @@
 									"containerExtending": false,
 									"left": 360,
 									"top": 300.5,
-									"width": 193.52978515625,
+									"width": 193,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
